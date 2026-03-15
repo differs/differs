@@ -7,7 +7,7 @@
 
 ### 🔗 Blockchain & Web3 Engineer
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:main@mails.wedevs.org)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-24292f?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-24292f?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourhandle)
 [![Blog](https://img.shields.io/badge/Blog-Visit-24292f?style=flat-square&logo=medium&logoColor=white)](https://differs.blog)
@@ -166,11 +166,11 @@
 
 ### 📬 Let's Connect
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: [main@mails.wedevs.org](mailto:main@mails.wedevs.org)
 - 💬 **Telegram**: [@yourhandle](https://t.me/yourhandle)
 - 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 - 📝 **Blog**: [differs.blog](https://differs.blog)
-- 🔗 **Website**: [your-website.com](https://your-website.com)
+- 🔗 **Website**: [wedevs.org](https://wedevs.org)
 
 ---
 
