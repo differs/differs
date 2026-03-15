@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=240&section=header&text=Hi%20there,%20I'm%20differs&desc=Blockchain%20%26%20Web3%20Engineer%20|%20Rust%20|%20Substrate%20|%20AI&animation=twinkling&fontSize=28&fontColor=ffffff)
-
 # 👋 Hello, I'm differs
 
 ### 🔗 Blockchain & Web3 Engineer
+
+> 专注于区块链基础设施和 Web3 应用开发 · Rust · Substrate · Solana · AI
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:main@mails.wedevs.org)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-24292f?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
